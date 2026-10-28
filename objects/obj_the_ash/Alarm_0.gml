@@ -1,0 +1,1 @@
+can_be_hit = true; // Reset cooldown agar bisa dipukul lagi
