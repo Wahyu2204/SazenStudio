@@ -1,4 +1,4 @@
-var key_next = keyboard_check_pressed(ord("F"));
+var key_next = keyboard_check_pressed(vk_enter);
 var current_text = dialog_list[dialog_index];
 
 // 1. Jalankan efek animasi ngetik

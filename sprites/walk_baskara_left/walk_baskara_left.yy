@@ -23,6 +23,7 @@
   "height":640,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"1c94c356-ce89-4188-b401-f7d077b9cdf0","blendMode":3,"displayName":"Layer 1","isLocked":false,"name":"1c94c356-ce89-4188-b401-f7d077b9cdf0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"edef39cb-e03e-487e-99e8-60d04e36f3d5","blendMode":0,"displayName":"default","isLocked":false,"name":"edef39cb-e03e-487e-99e8-60d04e36f3d5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"walk_baskara_left",

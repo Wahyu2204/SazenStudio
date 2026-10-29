@@ -33,4 +33,4 @@ draw_text_ext(box_x1 + 20, box_y1 + 50, text_to_draw, 30, (box_x2 - box_x1) - 40
 
 // 5. Indikator Tombol F di pojok kanan bawah (Ukuran Normal)
 draw_set_color(c_gray);
-draw_text(box_x2 - 140, box_y2 - 30, "[F] Lanjut...");
+draw_text(box_x2 - 140, box_y2 - 30, "[Enter] Lanjut...");
