@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 var key_next = keyboard_check_pressed(vk_space);
-=======
-var key_next = keyboard_check_pressed(vk_enter);
->>>>>>> origin/main
 var current_text = dialog_list[dialog_index];
 
 // 1. Jalankan efek animasi ngetik
