@@ -1,4 +1,13 @@
 if (already_triggered && dialog_index < array_length(dialog_list)) {
+<<<<<<< HEAD
+    draw_dialogue_box(
+        dialog_speaker[dialog_index],
+        dialog_list[dialog_index],
+        char_index,
+        dialog_portrait[dialog_index],
+        dialog_mirror[dialog_index]
+    );
+=======
     var gui_w = display_get_gui_width();
     var gui_h = display_get_gui_height();
 
@@ -62,4 +71,5 @@ if (already_triggered && dialog_index < array_length(dialog_list)) {
     } else {
         draw_text(box_x2 - 100, box_y2 - 25, "[Enter] Skip >");
     }
+>>>>>>> origin/main
 }

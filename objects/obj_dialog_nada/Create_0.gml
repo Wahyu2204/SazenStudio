@@ -6,10 +6,14 @@ if (variable_global_exists("dialog_nada_done") && global.dialog_nada_done == tru
 
 // Pemisah Speaker & Teks agar Nameplate berganti otomatis
 dialog_speaker = [
-    "Nada",
+    "???",
     "Baskara",
     "Baskara"
 ];
+
+// masukan foto dan apakah miror atau tidak
+dialog_portrait = [anonim, baskara_normal, baskara_normal];
+dialog_mirror   = [true, false, false];
 
 dialog_list = [
     "Ayah...",
