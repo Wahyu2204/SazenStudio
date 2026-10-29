@@ -1,5 +1,5 @@
 // Input tombol F untuk lanjut percakapan
-var key_next = keyboard_check_pressed(ord("F"));
+var key_next = keyboard_check_pressed(vk_enter);
 
 // Efek teks mengetik berjalan
 var current_text = text[text_index];

@@ -58,8 +58,8 @@ if (already_triggered && dialog_index < array_length(dialog_list)) {
     // --- INDIKATOR TOMBOL [F] ---
     draw_set_color(make_color_rgb(212, 175, 55));
     if (char_index >= string_length(current_text)) {
-        draw_text(box_x2 - 100, box_y2 - 25, "[F] Lanjut v");
+        draw_text(box_x2 - 100, box_y2 - 25, "[Enter] Lanjut v");
     } else {
-        draw_text(box_x2 - 100, box_y2 - 25, "[F] Skip >");
+        draw_text(box_x2 - 100, box_y2 - 25, "[Enter] Skip >");
     }
 }

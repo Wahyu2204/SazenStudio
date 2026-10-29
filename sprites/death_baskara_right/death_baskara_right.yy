@@ -25,6 +25,7 @@
   "height":640,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"c28ea8d3-af02-40d9-9f6b-e6ffa6ac21ed","blendMode":3,"displayName":"Layer 1","isLocked":false,"name":"c28ea8d3-af02-40d9-9f6b-e6ffa6ac21ed","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"edef39cb-e03e-487e-99e8-60d04e36f3d5","blendMode":0,"displayName":"default","isLocked":false,"name":"edef39cb-e03e-487e-99e8-60d04e36f3d5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"death_baskara_right",

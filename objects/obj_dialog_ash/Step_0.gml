@@ -9,7 +9,7 @@ if (!already_triggered && instance_exists(obj_player)) {
 
 // 2. Jika dialog sudah terpicu dan belum selesai
 if (already_triggered) {
-    var key_next = keyboard_check_pressed(ord("F"));
+    var key_next = keyboard_check_pressed(vk_enter);
     var current_text = dialog_list[dialog_index];
 
     // Animasi teks mengetik
@@ -32,7 +32,7 @@ if (already_triggered) {
             if (dialog_index >= array_length(dialog_list)) {
                 
                 global.dialog_ash_done = true; // <--- TANDAI DIALOG ASH TAMAT SELAMANYA!
-                
+                global.ash_encounter_seen = true;
                 global.game_paused = false; // UNPAUSE GAME!
                 
                 if (instance_exists(obj_player)) {

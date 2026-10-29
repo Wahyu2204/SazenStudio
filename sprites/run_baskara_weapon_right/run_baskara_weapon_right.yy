@@ -24,6 +24,7 @@
   "height":640,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"cf5f71ab-d616-44a6-b8e4-3b4d2b21512a","blendMode":3,"displayName":"Layer 1","isLocked":false,"name":"cf5f71ab-d616-44a6-b8e4-3b4d2b21512a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"edef39cb-e03e-487e-99e8-60d04e36f3d5","blendMode":0,"displayName":"default","isLocked":false,"name":"edef39cb-e03e-487e-99e8-60d04e36f3d5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"run_baskara_weapon_right",

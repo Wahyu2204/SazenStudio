@@ -22,6 +22,7 @@
   "name":"Testing Game Building",
   "resources":[
     {"id":{"name":"font_dialog","path":"fonts/font_dialog/font_dialog.yy",},},
+    {"id":{"name":"obj_bangku_rusak","path":"objects/obj_bangku_rusak/obj_bangku_rusak.yy",},},
     {"id":{"name":"obj_brightness_controller","path":"objects/obj_brightness_controller/obj_brightness_controller.yy",},},
     {"id":{"name":"obj_cutscene_arc_1","path":"objects/obj_cutscene_arc_1/obj_cutscene_arc_1.yy",},},
     {"id":{"name":"obj_dialog_ash","path":"objects/obj_dialog_ash/obj_dialog_ash.yy",},},
@@ -49,6 +50,7 @@
     {"id":{"name":"attack_2_baskara_right","path":"sprites/attack_2_baskara_right/attack_2_baskara_right.yy",},},
     {"id":{"name":"attack_baskara_left","path":"sprites/attack_baskara_left/attack_baskara_left.yy",},},
     {"id":{"name":"attack_baskara_right","path":"sprites/attack_baskara_right/attack_baskara_right.yy",},},
+    {"id":{"name":"bangku_rusak","path":"sprites/bangku_rusak/bangku_rusak.yy",},},
     {"id":{"name":"bg","path":"sprites/bg/bg.yy",},},
     {"id":{"name":"death_baskara_left","path":"sprites/death_baskara_left/death_baskara_left.yy",},},
     {"id":{"name":"death_baskara_right","path":"sprites/death_baskara_right/death_baskara_right.yy",},},

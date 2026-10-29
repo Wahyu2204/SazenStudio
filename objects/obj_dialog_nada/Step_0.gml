@@ -8,7 +8,7 @@ if (!already_triggered && instance_exists(obj_player)) {
 
 // 2. Jika dialog sudah terpicu dan belum selesai
 if (already_triggered) {
-    var key_next = keyboard_check_pressed(ord("F"));
+    var key_next = keyboard_check_pressed(vk_enter);
     var current_text = dialog_list[dialog_index];
 
     // Animasi teks mengetik
