@@ -1,3 +1,6 @@
+var key_next = keyboard_check_pressed(vk_space);
+var current_text = dialog_list[dialog_index];
+	
 // 1. Cek jika Baskara mendekat (jarak < 60px) dan dialog belum terpicu
 if (!already_triggered && instance_exists(obj_player)) {
     if (point_distance(x, y, obj_player.x, obj_player.y) < 60) {
@@ -8,9 +11,6 @@ if (!already_triggered && instance_exists(obj_player)) {
 
 // 2. Jika dialog sudah terpicu dan belum selesai
 if (already_triggered) {
-    var key_next = keyboard_check_pressed(ord("F"));
-    var current_text = dialog_list[dialog_index];
-
     // Animasi teks mengetik
     if (char_index < string_length(current_text)) {
         char_index += text_speed;

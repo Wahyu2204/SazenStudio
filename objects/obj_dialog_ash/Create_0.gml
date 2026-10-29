@@ -9,6 +9,10 @@ dialog_speaker = [
     "Baskara"
 ];
 
+// masukan foto dan apakah miror atau tidak
+dialog_portrait = [baskara_normal, baskara_normal];
+dialog_mirror   = [false, false];
+
 dialog_list = [
     "Astaga makhluk apa ini... kenapa badanku terasa terbakar ketika dia menyentuhku?",
     "Aku tidak punya pilihan lain... aku harus melawannya"

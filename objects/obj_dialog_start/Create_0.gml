@@ -11,6 +11,10 @@ dialog_speaker = [
     "Baskara"
 ];
 
+// masukan foto dan apakah miror atau tidak
+dialog_portrait = [baskara_normal, baskara_normal];
+dialog_mirror   = [false, false];
+
 dialog_list = [
     "Dimana aku...?",
     "Ini seperti rusun tempatku tinggal."
@@ -25,5 +29,3 @@ text_speed = 0.5;
 
 // Langsung pause game pas room mulai
 global.game_paused = true;
-
-draw_set_font(font_dialog);

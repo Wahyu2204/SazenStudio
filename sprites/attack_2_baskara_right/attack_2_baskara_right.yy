@@ -89,8 +89,8 @@
   "swatchColours":null,
   "swfPrecision":0.5,
   "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
+    "name":"Baskara_Attack1",
+    "path":"texturegroups/Baskara_Attack1",
   },
   "type":0,
   "VTile":false,
