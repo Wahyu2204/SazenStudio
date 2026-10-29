@@ -24,6 +24,7 @@
   "height":640,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"3be17483-29db-4b9a-ab64-6abc1b6c9d2e","blendMode":3,"displayName":"Layer 1","isLocked":false,"name":"3be17483-29db-4b9a-ab64-6abc1b6c9d2e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"edef39cb-e03e-487e-99e8-60d04e36f3d5","blendMode":0,"displayName":"default","isLocked":false,"name":"edef39cb-e03e-487e-99e8-60d04e36f3d5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"run_baskara_left",

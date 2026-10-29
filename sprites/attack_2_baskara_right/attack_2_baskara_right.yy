@@ -21,6 +21,7 @@
   "height":640,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"528235ab-7808-424d-a159-633f59833518","blendMode":3,"displayName":"Layer 1","isLocked":false,"name":"528235ab-7808-424d-a159-633f59833518","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"edef39cb-e03e-487e-99e8-60d04e36f3d5","blendMode":0,"displayName":"default","isLocked":false,"name":"edef39cb-e03e-487e-99e8-60d04e36f3d5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"attack_2_baskara_right",
